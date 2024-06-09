@@ -1,7 +1,7 @@
 SymfonyCasts Harmonious Development with Symfony 6
 ======================
 
-During this course, I gained hands-on experience with Symfony, learning to create and manage projects using the Symfony CLI tool. I became familiar with the project's structure, including public, config, src, vendor, bin, and var directories, and set up Symfony in PHPStorm for enhanced productivity.
+During this course, I gained hands-on experience with Symfony, learning to create and manage projects using the Symfony CLI tool.
 
 I worked extensively with routes and controllers, understanding how to map URLs to controller methods and return responses. I implemented dynamic URL parameters with wildcard routes and learned to handle optional wildcards and string manipulations.
 
